@@ -8,4 +8,4 @@ https://github.com/mikalshrestha/FCMPushNotificationDemo-Admin
 
 ## - Overall Flow:
 
-<img src="Screenshots/Screen Shot 2021-07-27 at 10.43.04.png" width="240"></img>
+<img src="Screenshots/Screen Shot 2021-07-27 at 10.43.04.png"></img>
